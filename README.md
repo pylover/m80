@@ -60,6 +60,8 @@ https://ubuntu.com/core/docs/networkmanager/configure-cellular-connections
 
 
 # Bugs
+https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1990700
+https://lists.ubuntu.com/archives/kernel-team/2022-November/134458.html
 https://bugs.launchpad.net/ubuntu/+source/linux/+bug/2002089
 https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1950282
 
